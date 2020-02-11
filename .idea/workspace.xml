@@ -32,6 +32,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sks\PycharmProjects\sampleautomation1\Driver" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.read_from_excel_robot">
     <configuration name="exception_handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sampleautomation1" />
